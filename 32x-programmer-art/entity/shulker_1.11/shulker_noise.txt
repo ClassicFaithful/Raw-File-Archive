@@ -1,0 +1,20 @@
+All of this was done on GIMP using "CIE Ich" noise.
+
+So that I don't have to state this for every shulker, maximum dulling was used on all of them:
+
+black: 2.5 lightness, 2.5 chroma, 2.5 hue (will always be in this order to save time)
+blue: 2.5/2.5/2.5
+brown: 1.25/1.25/1.25
+cyan: 2.5/2.5/2.5
+gray: 2.5/2.5/2.5
+green: 2.5/2.5/2.5
+light blue: 2.5/2.5/2.5
+lime: 2.5/2.5/2.5
+magenta: 1.25/1.25/1.25
+orange: 2.5/2.5/2.5
+pink: 2.5/2.5/2.5
+purple: unknown (not made by me)
+red: 1.25/1.25/1.25
+silver: 2.5/2.5/2.5
+white: 2.5/2.5/2.5
+yellow: 1.25/1.25/1.25
