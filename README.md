@@ -1,14 +1,28 @@
-.ase files = aseprite's unique format, you will need it to work
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf_plain_logo.png?raw=true" alt="Classic Faithful 32x Jappa" align="right" height="256px">
+<div align="center">
+  <h1>Raw File Archive</h1>
+  <h3>An archive of layered files created by Classic Faithful contributors, organized here for convenience.</h3>
 
-.psd files = photoshop files, you can use gimp, photopea, or other tools instead as well
-
-.pdn files = paint.net files, you will need it to work
+![RepoSize](https://img.shields.io/github/repo-size/ClassicFaithful/Raw-File-Archive)
+![Issues](https://img.shields.io/github/issues/ClassicFaithful/Raw-File-Archive)
+![PullRequests](https://img.shields.io/github/issues-pr/ClassicFaithful/Raw-File-Archive)
+</div>
 
 ---
 
-if the file has "recreation" in it, it is not original and has been remade, which is going to be slightly inaccurate to the version in the pack, however it's accurate enough to merit adding it
+## File formats:
+.ase: Aseprite files. They use a proprietary format so you will need Aseprite to view these files.
 
-this repository will be expanded upon every time people post a new raw file of a texture currently in a subdivision of classic faithful
+.psd: Photoshop documents. You can open these with Photoshop, GIMP, Photopea, and most common image editors.
 
-if a texture gets replaced that has a raw file here, it will get replaced. if you want access to the original raw file, you can go through the commit history
+.pdn: paint.NET files. These also use a proprietary format and you will need paint.NET to open these files.
 
+## File structure:
+Raw files are sorted by pack, and further by type (blocks are grouped together, items are grouped together, etc).
+
+If the file has "recreation" in its name, the file is not original and has been remade. This may lead to the file being slightly inaccurate to the actual version in the pack.
+
+If a texture gets replaced that has a raw file here, the raw file here will get replaced too. If you want access to the original raw file, you can use the built-in GitHub commit history to browse old versions of this repository and download the files you want.
+
+## Finally:
+If you want to add a file here, simply ask on our [Discord Server](https://discord.gg/KSEhCVtg4J).
