@@ -15,6 +15,8 @@
 
 .psd: Photoshop documents. You can open these with Photoshop, GIMP, Photopea, and most common image editors.
 
+.xcf: GIMP files. You can use other programs with plugins but it's probably easier to just use GIMP since it's free.
+
 .pdn: paint.NET files. These also use a proprietary format and you will need paint.NET to open these files.
 
 ## File structure:
