@@ -1,4 +1,4 @@
-<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf_plain_logo.png?raw=true" alt="Classic Faithful Logo" align="right" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/cf_main_logo.png?w=256" alt="Classic Faithful Logo" align="right" height="256px">
 <div align="center">
   <h1>Raw File Archive</h1>
   <h3>An archive of layered files created by Classic Faithful contributors, organized here for convenience.</h3>
