@@ -11,13 +11,13 @@
 ---
 
 ## File formats:
-.ase: Aseprite files. They use a proprietary format so you will need Aseprite to view these files.
+`.ase`: Aseprite files. They use a proprietary format so you will need Aseprite to view these files.
 
-.psd: Photoshop documents. You can open these with Photoshop, GIMP, Photopea, and most common image editors.
+`.psd`: Photoshop documents. You can open these with Photoshop, GIMP, Photopea, and most common image editors.
 
-.xcf: GIMP files. You can use other programs with plugins but it's probably easier to just use GIMP since it's free.
+`.xcf`: GIMP files. You can use other programs with plugins but it's probably easier to just use GIMP since it's free.
 
-.pdn: paint.NET files. These also use a proprietary format and you will need paint.NET to open these files.
+`.pdn`: paint.NET files. These also use a proprietary format and you will need paint.NET to open these files.
 
 ## File structure:
 Raw files are sorted by pack, and further by type (blocks are grouped together, items are grouped together, etc).
